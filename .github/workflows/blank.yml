@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Digital Poem: In the Last Few Weeks</title>
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 50px;
+    }
+
+    h1 {
+      font-size: 36px;
+      margin-bottom: 20px;
+    }
+
+    p {
+      font-size: 24px;
+      line-height: 1.5;
+      margin-bottom: 10px;
+    }
+
+    .highlight {
+      color: #ff0000;
+      font-weight: bold;
+    }
+
+    .fade {
+      animation: fade 2s infinite;
+    }
+
+    @keyframes fade {
+      0% { opacity: 1; }
+      50% { opacity: 0.5; }
+      100% { opacity: 1; }
+    }
+  </style>
+</head>
+<body>
+  <h1>Digital Poem: In the Last Few Weeks</h1>
+  <p>In the last few weeks</p>
+  <p>You’ve been tormenting me incessantly,</p>
+  <p>demanding from me more than I can ever give You back.</p>
+
+  <p>Unlike Your first epiphany,</p>
+  <p>this time you’ve almost killed me.</p>
+
+  <p class="highlight fade">Cowardly, through my own hands.</p>
+
+  <p>You’ve been hunting me for so long</p>
+  <p>I’m stranger to it no more.</p>
+
+  <p>I had always feared</p>
+  <p>That state of absence of thoughts-</p>
+  <p>nonetheless I was hungry for it.</p>
+
+  <p>The ( any ) emotional confrontation -</p>
+  <p>that is, public display of what grows silently inside,</p>
+  <p>and ultimately hides behind -</p>
+  <p>announces an inner earthquake.</p>
+
+  <p class="highlight fade">Motus animi</p>
+
+  <p>Now I long no more for calm sea;</p>
+  <p>I see no sense in it.</p>
+
+  <p>I desire, religiously,</p>
+  <p>to acquire the ability to navigate these troubled waters.</p>
+
+  <p>Will I ever be my own sailor?!</p>
+  <p>In charge of this run-down ship?</p>
+
+  <p>Last year I feared the landing of</p>
+  <p>The pirate on shore,</p>
+  <p>without realizing I had meanwhile</p>
+  <p>remained viciously blind and sterile.</p>
+
+  <p>So, before I knew ( or I could know )</p>
+  <p>I fell into His cage.</p>
+
+  <p>I’ve been desperately in pursuit</p>
+  <p>of my source of light -</p>
+  <p>a deadly fight for that Golden Fleece.</p>
+
+  <p>//perhaps I should chase the dark//</p>
+
+  <p>Without heavy chains, it’s even harder!</p>
+
+  <p>Like a newly-freed slave</p>
+  <p>without his tormenting Master,</p>
+  <p>I wander amidst the fog.</p>
+
+  <p>I scream aloud up to the sky</p>
+  <p>“ Who owns Me now?!”</p>
+
+  <p class="highlight fade">//You, it has always been You!//</p>
+
+  <p>I always knew the answer!</p>
+
+  <p>Now, I can rest and get back-back- back to Me.</p>
+</body>
+</html>
